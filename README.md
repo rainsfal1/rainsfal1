@@ -36,7 +36,7 @@ Discord: rainsfall
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; padding-left: 20px">
   <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/overview.svg" alt="Overview Stats" style="display: block;" />
   <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/languages.svg" alt="Languages Stats" style="display: block;" />
 </div>
