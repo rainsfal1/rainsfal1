@@ -35,10 +35,10 @@ Discord: rainsfall
 </p>
 
 
-<a href="https://github.com/rainsfal1">
 
-![](https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/languages.svg)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/overview.svg" alt="Overview Stats" style="display: inline-block; margin: 0; padding: 0;" />
+  <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/languages.svg" alt="Languages Stats" style="display: inline-block; margin: 0; padding: 0;" />
+</div>
 
-</a>
 
