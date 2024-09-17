@@ -16,14 +16,18 @@ Location: Islamabad, Pakistan
 
 Languages: 
   - Rust, Java, TypeScript/JavaScript, Python, C/C++, Go
+
 Web & Markup: 
   - HTML, CSS, Tailwind CSS
+
 Databases: 
   - MongoDB, PostgreSQL, MySQL, ElasticSearch
-Some Frameworks & Tools: 
+
+Frameworks & Tools: 
   - React, Node.js, Express, Django, Docker
   - TensorFlow/PyTorch, Auto-Keras, NNI, Hugging Face
   - Tokio, Rayon, CMake, Qt
+
 
 Commits: 100
 Stars: 0
