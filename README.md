@@ -10,6 +10,7 @@ rainsfal1@github
 OS: MacOS arm64
 Shell: fish 3.6
 Uptime: 18 years
+Pronouns: He/Him
 Host: National University of Sciences & Technology (NUST)
 Location: Islamabad, Pakistan
 
@@ -27,7 +28,6 @@ Frameworks & Tools:
   - TensorFlow/PyTorch, Auto-Keras, NNI, Hugging Face
   - Tokio, Rayon, CMake, Qt
 
-Commits: 100, Stars: 0
 Discord: rainsfall
 ```
   &nbsp; 
