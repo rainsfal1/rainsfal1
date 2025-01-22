@@ -36,8 +36,6 @@ Tools
 
 
 
-<div align="center">
-   <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/overview.svg" alt="Overview Stats" />
-  <img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/languages.svg" alt="Languages Stats" />
+<img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/overview.svg" alt="Overview Stats" />
+<img src="https://raw.githubusercontent.com/rainsfal1/github-stats-transparent/output/generated/languages.svg" alt="Languages Stats" />
 </div>
-
